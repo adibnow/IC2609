@@ -1,0 +1,4 @@
+ID;createdAt;createdBy;modifiedAt;modifiedBy;description;type;amount;transactiondate;Category_ID;comment
+1;2020-09-24T14:21:47.771Z;Lennert;2020-09-24T14:21:47.771Z;Lennert;Eating;EXPENSE;15.00;2020-09-24T14:21:47.771Z;1;Comment 1
+2;2020-09-24T14:21:47.771Z;Lennert;2020-09-24T14:21:47.771Z;Lennert;Villa;EXPENSE;1500.00;2020-09-24T14:21:47.771Z;2;Comment 2
+3;2020-09-24T14:21:47.771Z;Lennert;2020-09-24T14:21:47.771Z;Lennert;Salary;INCOME;5000.00;2020-09-24T14:21:47.771Z;2;Comment 3
