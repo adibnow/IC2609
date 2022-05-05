@@ -2,6 +2,8 @@
 Change test
 Welcome to your new project.
 
+Another change from DJ
+
 It contains these folders and files, following our recommended project layout:
 
 File or Folder | Purpose
